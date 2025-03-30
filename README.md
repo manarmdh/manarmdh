@@ -1,5 +1,5 @@
 
-#Hi Im ,  Im Afiae 
+#Hi ,  Im Afiae 
 ### 💻 CS Student   
 - 🔐 Passionate about **Ethical Hacking & Penetration Testing**  
 - 📱 Develops **Mobile & Web Apps (Flutter, Dart)**  
